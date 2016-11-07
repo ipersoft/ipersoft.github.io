@@ -1,3 +1,4 @@
+<html>
 <div>
 <div>
 <div><img border="0" alt="def intestazione" src="http://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?id=6276"></div>
@@ -146,3 +147,4 @@
 <div><strong><img style="WIDTH: 38px; HEIGHT: 29px" alt="logo facebook" src="https://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?ID=18791" width="95" height="56"></strong><a title="" href="https://it-it.facebook.com/pages/Comune-Di-Desio/103441483073684" target="_self"><font color="#990066"><strong>Facebook</strong></font></a><font color="#990066"><strong> <img style="WIDTH: 38px; HEIGHT: 37px" alt="logo twitter" src="https://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?ID=18792" width="38" height="44"> </strong></font><a title="" href="https://mobile.twitter.com/comunedidesio" target="_self"><font color="#990066"><strong>Twitter</strong></font></a><strong> </strong><font color="#990066"><strong></strong></font></div>
 <div></div></div>
 <div><strong><img style="WIDTH: 622px; HEIGHT: 60px" border="0" alt="piè di pagina dic 2010" src="http://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?id=6565" width="993" height="74"></strong></div></div></div></div></font></font></font></font></font></font><strong></strong></div></div></div></div></div></div></div></div></div></div></div>
+</html>
